@@ -6,7 +6,7 @@ Ce manifeste propose des principes de préservation pour les artistes numérique
 
 ## 1. La Liberté de l'Artiste
 
-L'artiste conserve toute liberté dans le choix des formats de stockage, des éléments qu'il décide de partager, de la licence à utiliser, et du moyen de stockage. Ce manifeste ne fait que proposer des principes et nous respectons le droit de chaque artiste à décider des modalités de préservation de son œuvre.a
+L'artiste conserve toute liberté dans le choix des formats de stockage, des éléments qu'il décide de partager, de la licence à utiliser, et du moyen de stockage. Ce manifeste ne fait que proposer des principes et nous respectons le droit de chaque artiste à décider des modalités de préservation de son œuvre.
 
 ## 2. Le Choix du Format
 
