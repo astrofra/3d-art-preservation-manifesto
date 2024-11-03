@@ -2,18 +2,18 @@
 
 *Version 1.0 - Date: 2024-11-03*
 
-This manifesto proposes preservation principles for digital artists working with real-time 3D, to facilitate the restoration of artworks in the future in case of technological obsolescence. We do not impose directives on how to restore or adapt an artwork; rather, we offer recommendations to ensure that the essential elements of the artwork are available to potential restorers, while respecting the artist's vision and freedom.
+This manifesto outlines preservation principles for digital artists using real-time 3D, in order to enable the restoration of works in the future, in the event of technological obsolescence. We do not dictate how a work should be restored or adapted; we offer recommendations to ensure that the essential elements of the work are available to potential restorers, while respecting the vision and freedom of the artist.
 
 ## 1. The Freedom of the Artist
 
-The artist retains full freedom in choosing storage formats, deciding which elements to share, selecting the appropriate license, and choosing the storage method. This manifesto merely proposes principles, and we respect each artist’s right to decide on the preservation methods for their work.
+The artist retains complete freedom in the choice of storage formats, deciding which elements to share, selecting the appropriate license, and choosing the storage method. This manifesto simply suggests principles, and we respect each artist’s right to decide on the preservation methods for their work.
 
 ## 2. Choosing the Format
 
 To ensure a certain durability of the essential elements of the artwork, we recommend the following formats:
    
-   - **Source Code**: We recommend archiving source code in plain text, regardless of the programming language.
-   - **3D Graphic Elements (models)**: Use standard formats such as GLTF, OBJ, or FBX to ensure broad compatibility and ease of future readability.
+   - **Source Code**: Source code should be archived in plain text, regardless of the programming language.
+   - **3D Graphic Elements (models)**: Use the most standards formats such as GLTF, OBJ or FBX to ensure broad compatibility and ease of future readability.
    - **Textures**: Texture formats can be freely chosen from standard options (PNG, JPG, TGA, etc.).
    - **Video**: Video files can be archived in widely supported formats such as MP4 (H.264 or H.265), MKV, or MOV.
    - **Point Clouds**: If the artwork includes point clouds, they can be archived in text format (e.g., .PLY or .XYZ) to ensure readability.
@@ -23,7 +23,7 @@ To ensure a certain durability of the essential elements of the artwork, we reco
 
 We encourage artists to use licenses that protect their work and recognize their authorship while facilitating reconstruction for preservation projects.
 
-   - **If the interactive artwork includes code**: We recommend the use of licenses such as GPLv3 or MIT.
+   - **If the interactive artwork includes code**: We suggest the use of licenses such as GPLv3 or MIT.
    - **For audiovisual elements (3D models, textures, etc.)**: We recommend the use of Creative Commons licenses **BY-NC** or **BY-NC-SA**, which protect attribution and prohibit commercialization. The **BY-NC-SA** (Attribution - NonCommercial - ShareAlike) license allows derivative works as long as they are shared under the same license. This manifesto encourages the protection of the artist's rights while offering some freedom for reinterpretation for future restorations.
 
 ## 4. Hosting
