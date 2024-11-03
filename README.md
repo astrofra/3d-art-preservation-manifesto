@@ -1,37 +1,37 @@
-# Manifeste pour la préservation des œuvres numériques en 3D temps-réel
+# Manifesto for the preservation of real-time 3D digital artworks
 
-*Version 1.0 - Date : 2024-11-03*
+*Version 1.0 - Date: 2024-11-03*
 
-Ce manifeste propose des principes de préservation pour les artistes numériques exploitant la 3D temps-réel, afin de faciliter la restauration des œuvres dans le futur, en cas d’obsolescence technologique. Nous n’imposons pas de directives sur la façon de restaurer ou d’adapter une œuvre ; nous offrons des recommandations pour faire en sorte que les éléments essentiels de l’œuvre soient disponibles pour des restaurateurs potentiels, tout en respectant la vision et la liberté de l’artiste.
+This manifesto proposes preservation principles for digital artists working with real-time 3D, to facilitate the restoration of artworks in the future in case of technological obsolescence. We do not impose directives on how to restore or adapt an artwork; rather, we offer recommendations to ensure that the essential elements of the artwork are available to potential restorers, while respecting the artist's vision and freedom.
 
-## 1. La Liberté de l'Artiste
+## 1. The Freedom of the Artist
 
-L'artiste conserve toute liberté dans le choix des formats de stockage, des éléments qu'il décide de partager, de la licence à utiliser, et du moyen de stockage. Ce manifeste ne fait que proposer des principes et nous respectons le droit de chaque artiste à décider des modalités de préservation de son œuvre.
+The artist retains full freedom in choosing storage formats, deciding which elements to share, selecting the appropriate license, and choosing the storage method. This manifesto merely proposes principles, and we respect each artist’s right to decide on the preservation methods for their work.
 
-## 2. Le Choix du Format
+## 2. Choosing the Format
 
-Pour garantir une certaine pérennité des éléments constitutifs de l’œuvre, nous recommandons les formats suivants :
+To ensure a certain durability of the essential elements of the artwork, we recommend the following formats:
    
-   - **Code source** : Nous recommandons d'archiver le code source en mode texte, quel que soit le langage de programmation.
-   - **Éléments graphiques 3D (modèles)** : Utiliser des formats standards comme GLTF, OBJ, ou FBX pour permettre une large compatibilité et faciliter la lecture future.
-   - **Textures** : Le format de texture peut être choisi librement parmi les options standards (PNG, JPG, TGA, etc.).
-   - **Vidéo** : Les fichiers vidéo peuvent être archivés dans des formats courants et largement supportés comme MP4 (H.264 ou H.265), MKV, ou MOV.
-   - **Nuages de points** : Si l’œuvre inclut des nuages de points, ils peuvent être archivés en format texte (par exemple, .PLY ou .XYZ).
-   - **Son** : Les fichiers audio peuvent être archivés dans des formats largement utilisés tels que OGG, WAV, ou MP3.
+   - **Source Code**: We recommend archiving source code in plain text, regardless of the programming language.
+   - **3D Graphic Elements (models)**: Use standard formats such as GLTF, OBJ, or FBX to ensure broad compatibility and ease of future readability.
+   - **Textures**: Texture formats can be freely chosen from standard options (PNG, JPG, TGA, etc.).
+   - **Video**: Video files can be archived in widely supported formats such as MP4 (H.264 or H.265), MKV, or MOV.
+   - **Point Clouds**: If the artwork includes point clouds, they can be archived in text format (e.g., .PLY or .XYZ) to ensure readability.
+   - **Audio**: Audio files can be archived in commonly used formats such as OGG, WAV, or MP3.
 
-## 3. La Licence
+## 3. Licensing
 
-Nous encourageons les artistes à utiliser des licences qui protègent leur œuvre et reconnaissent leur paternité, tout en facilitant la reconstitution pour des projets de préservation.
+We encourage artists to use licenses that protect their work and recognize their authorship while facilitating reconstruction for preservation projects.
 
-   - **Si l'œuvre interactive intégre du code** : Nous recommandons l’usage des licences telles que GPLv3 ou MIT.
-   - **Pour les éléments audiovisuels (modèles 3D, textures, etc.)** : Nous recommandons l’usage des licences Creative Commons **BY-NC** ou **BY-NC-SA**, qui protègent l’attribution et interdisent la commercialisation. La **BY-NC-SA** (Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions) permet des œuvres dérivées à condition qu’elles soient partagées sous la même licence. Le manifeste encourage à préserver les droits de l’artiste tout en offrant une certaine liberté de réinterprétation pour des restaurations futures.
+   - **If the interactive artwork includes code**: We recommend the use of licenses such as GPLv3 or MIT.
+   - **For audiovisual elements (3D models, textures, etc.)**: We recommend the use of Creative Commons licenses **BY-NC** or **BY-NC-SA**, which protect attribution and prohibit commercialization. The **BY-NC-SA** (Attribution - NonCommercial - ShareAlike) license allows derivative works as long as they are shared under the same license. This manifesto encourages the protection of the artist's rights while offering some freedom for reinterpretation for future restorations.
 
-## 4. L’Hébergement
+## 4. Hosting
 
-Pour maximiser l’accessibilité et la sécurité des fichiers sur le long terme, nous suggérons l’utilisation de plateformes d’hébergement les plus stables et reconnues comme Github ou Archive.org.
-Nous encourageons l'artiste à choisir des solutions redondantes et complémentaires afin de maximiser les chances de survie des données.
-Nous appelons également à une implication institutionnelle des États pour la préservation des œuvres numériques.
+To maximize accessibility and file security in the long term, we suggest using the most stable and recognized hosting platforms, such as GitHub or Archive.org.
+We encourage artists to choose redundant and complementary solutions to maximize the chances of data survival.
+We also call for institutional involvement from governments for the preservation of digital artworks.
 
 ---
 
-Ce manifeste constitue un cadre de préservation, permettant aux artistes de choisir les modalités de mise à disposition de leur œuvre, pour que, dans une perspective de dix ou vingt ans, si l’œuvre originale devenait inutilisable, ses aspects principaux puissent être reconstitués, garantissant ainsi un accès futur à la création numérique.
+This manifesto establishes a preservation framework, allowing artists to choose the terms for making their work available so that, in a perspective of ten or twenty years, if the original artwork becomes unusable, its main aspects can be reconstituted, ensuring future access to digital creation.
