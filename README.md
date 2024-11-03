@@ -4,11 +4,11 @@
 
 This manifesto outlines preservation principles for digital artists using real-time 3D, in order to enable the restoration of works in the future, in the event of technological obsolescence. We do not dictate how a work should be restored or adapted; we offer recommendations to ensure that the essential elements of the work are available to potential restorers, while respecting the vision and freedom of the artist.
 
-## 1. The Freedom of the Artist
+## 1. The freedom of the artist
 
 The artist retains complete freedom in the choice of storage formats, deciding which elements to share, selecting the appropriate license, and choosing the storage method. This manifesto simply suggests principles, and we respect each artist’s right to decide on the preservation methods for their work.
 
-## 2. Choosing the Format
+## 2. Choosing the format
 
 To ensure a certain durability of the essential elements of the artwork, we recommend the following formats:
    
