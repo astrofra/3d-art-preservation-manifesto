@@ -13,7 +13,7 @@ The artist retains complete freedom in the choice of storage formats, deciding w
 To ensure a certain durability of the essential elements of the artwork, we recommend the following formats:
    
    - **Source Code**: Source code should be archived in plain text, regardless of the programming language.
-   - **3D Graphic Elements (models)**: Use the most standards formats such as GLTF, OBJ or FBX to ensure broad compatibility and ease of future readability.
+   - **3D Graphic Elements (models)**: Use standard formats like GLTF, OBJ, or FBX to allow broad compatibility and facilitate future readability. It is also recommended to provide a screenshot of each model as a visual reference.
    - **Textures**: Texture formats can be freely chosen from standard options (PNG, JPG, TGA, etc.).
    - **Video**: Video files can be archived in widely supported formats such as MP4 (H.264 or H.265), MKV, or MOV.
    - **Point Clouds**: If the artwork includes point clouds, they can be archived in text format (e.g., .PLY or .XYZ) to ensure readability.
@@ -24,7 +24,7 @@ To ensure a certain durability of the essential elements of the artwork, we reco
 We encourage artists to use licenses that protect their work and recognize their authorship while facilitating reconstruction for preservation projects.
 
    - **If the interactive artwork includes code**: We suggest the use of licenses such as GPLv3 or MIT.
-   - **For audiovisual elements (3D models, textures, etc.)**: We recommend the use of Creative Commons licenses **BY-NC** or **BY-NC-SA**, which protect attribution and prohibit commercialization. The **BY-NC-SA** (Attribution - NonCommercial - ShareAlike) license allows derivative works as long as they are shared under the same license. This manifesto encourages the protection of the artist's rights while offering some freedom for reinterpretation for future restorations.
+   - **For audiovisual elements (3D models, textures, etc.)**: We recommend using Creative Commons licenses, leaving it up to the artist to include the NC (Non-Commercial) clause or not. We emphasize the importance of allowing derivative works to ensure the possibility of future restorations.
 
 ## 4. Hosting
 
