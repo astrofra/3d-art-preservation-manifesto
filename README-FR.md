@@ -24,7 +24,7 @@ Pour garantir une certaine pérennité des éléments constitutifs de l’œuvre
 Nous encourageons les artistes à utiliser des licences qui protègent leur œuvre et reconnaissent leur paternité, tout en facilitant la reconstitution pour des projets de préservation.
 
    - **Si l'œuvre interactive intégre du code** : Nous recommandons l’usage des licences telles que GPLv3 ou MIT.
-   - **Pour les éléments audiovisuels (modèles 3D, textures, etc.)** : Nous recommandons l’usage des licences Creative Commons, laissant aux artistes le choix d’inclure ou non la clause NC (Non-Commercial). Nous insistons sur l’importance d’autoriser les œuvres dérivées pour assurer la possibilité de restaurations futures, comme le permet le **BY-NC-SA**.
+   - **Pour les éléments audiovisuels (modèles 3D, textures, etc.)** : Nous recommandons l’usage des licences Creative Commons, laissant aux artistes le choix d’inclure ou non la clause NC (Non-Commercial). Nous insistons sur l’importance d’autoriser les œuvres dérivées pour assurer la possibilité de restaurations futures.
 
 ## 4. L’hébergement
 
