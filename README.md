@@ -1,8 +1,8 @@
-# Manifeste pour la Préservation des Œuvres Numériques en 3D
+# Manifeste pour la préservation des œuvres numériques en 3D temps-réel
 
 *Version 1.0 - Date : 2024-11-03*
 
-Ce manifeste propose des principes de préservation pour les artistes numériques exploitant la 3D, afin de faciliter la restauration des œuvres dans le futur, en cas d’obsolescence technologique. Nous n’imposons pas de directives sur la façon de restaurer ou d’adapter une œuvre ; nous offrons des recommandations pour faire en sorte que les éléments essentiels de l’œuvre soient disponibles pour des restaurateurs potentiels, tout en respectant la vision et la liberté de l’artiste.
+Ce manifeste propose des principes de préservation pour les artistes numériques exploitant la 3D temps-réel, afin de faciliter la restauration des œuvres dans le futur, en cas d’obsolescence technologique. Nous n’imposons pas de directives sur la façon de restaurer ou d’adapter une œuvre ; nous offrons des recommandations pour faire en sorte que les éléments essentiels de l’œuvre soient disponibles pour des restaurateurs potentiels, tout en respectant la vision et la liberté de l’artiste.
 
 ## 1. La Liberté de l'Artiste
 
