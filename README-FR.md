@@ -28,7 +28,7 @@ Nous encourageons les artistes à utiliser des licences qui protègent leur œuv
 
 ## 4. L’hébergement
 
-Pour maximiser l’accessibilité et la sécurité des fichiers sur le long terme, nous suggérons l’utilisation de plateformes d’hébergement les plus stables et reconnues comme Github ou Archive.org.
+Pour maximiser l’accessibilité et la sécurité des fichiers sur le long terme, nous suggérons l’utilisation de plateformes d’hébergement les plus stables et reconnues comme Github, Gitlab, Framagit ou Archive.org.
 Nous encourageons l'artiste à choisir des solutions redondantes et complémentaires afin de maximiser les chances de survie des données.
 Nous appelons également à une implication institutionnelle des États pour la préservation des œuvres numériques.
 
