@@ -28,7 +28,7 @@ We encourage artists to use licenses that protect their work and recognize their
 
 ## 4. Hosting
 
-To maximize accessibility and file security in the long term, we suggest using the most stable and recognized hosting platforms, such as GitHub or Archive.org.
+To maximize accessibility and file security in the long term, we suggest using the most stable and recognized hosting platforms, such as GitHub, Gitlab, Framagit or Archive.org.
 We encourage artists to choose redundant and complementary solutions to maximize the chances of data survival.
 We also call for institutional involvement from governments for the preservation of digital artworks.
 
